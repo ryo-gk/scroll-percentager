@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "target": "es5",
+    "module": "ES2015",
+    "skipLibCheck": true,
+    "declaration": true,
+    "declarationDir": "types/",
+    "allowJs": true,
+  },
+  "include": [
+    "src/**/*"
+  ]
+}
